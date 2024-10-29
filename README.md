@@ -1,2 +1,4 @@
-# projectEuler
-This repo contains the solutions of the well known set of mathematical problems, Project Euler.
+# Project Euler
+In this repo, I have raised the challenge and decided to solve all the problem of Project Euler _(https://projecteuler.net/)_.
+Everyday, I will solve a random problem and upload the solution to this repo.
+
